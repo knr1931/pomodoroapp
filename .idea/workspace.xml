@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c313ca-a2a4-430b-8568-da327710d0cc" name="Changes" comment="" />
+    <list default="true" id="45c313ca-a2a4-430b-8568-da327710d0cc" name="Changes" comment="Added constants for the project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "knr1931"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/knr1931/pomodoroapp.git",
+    "accountId": "832fabe4-d4ff-4a9a-9fac-92c854772d85"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -28,6 +47,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.constants.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -48,6 +69,37 @@
       <option name="presentableId" value="Default" />
       <updated>1725166603868</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initiating Project">
+      <option name="closed" value="true" />
+      <created>1725166692493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725166692493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added png for background image">
+      <option name="closed" value="true" />
+      <created>1725166848186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725166848186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added constants for the project">
+      <option name="closed" value="true" />
+      <created>1725166952182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725166952182</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiating Project" />
+    <MESSAGE value="Added png for background image" />
+    <MESSAGE value="Added constants for the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added constants for the project" />
   </component>
 </project>
